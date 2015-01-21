@@ -156,6 +156,7 @@ a {
 	margin: 0;
 	font-size: 20px;
 	font-weight: normal;
+	font-size: italic;
 }
 
 .person__summary {
@@ -181,9 +182,9 @@ a {
 }
 
 .btn--twitter {
-	background-color: #55ACEE;
+	background-color: ##55ACEE;
 }
 
 .btn--twitter:hover {
-	background-color: #1372ba;
+	background-color: ##55ACEE;
 }
