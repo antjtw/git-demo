@@ -63,7 +63,7 @@ a {
 	padding: .6em;
 	display: inline-block;
 	text-decoration: none;
-	color: #fff;
+	color: #1b49be;
 }
 
 .header__nav a:hover {
@@ -149,7 +149,7 @@ a {
 
 .person__name {
 	margin: 0;
-	font-size: 28px;
+	font-size: 32x;
 }
 
 .person__occupation {
